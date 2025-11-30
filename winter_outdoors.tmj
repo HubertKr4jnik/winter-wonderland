@@ -388,7 +388,109 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":24.75,
+                 "id":2,
+                 "name":"to_house",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"house_interior.tmj"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":45,
+                 "x":208.5,
+                 "y":965.5
+                }, 
+                {
+                 "height":24.75,
+                 "id":4,
+                 "name":"to_house",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"house_interior.tmj"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":45,
+                 "x":528.772727272727,
+                 "y":1255.48863636364
+                }, 
+                {
+                 "height":24.75,
+                 "id":6,
+                 "name":"to_house",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"house_interior.tmj"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":45,
+                 "x":1041,
+                 "y":1252.625
+                }, 
+                {
+                 "height":24.75,
+                 "id":7,
+                 "name":"to_house",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"house_interior.tmj"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":45,
+                 "x":1265.5,
+                 "y":388.625
+                }, 
+                {
+                 "height":24.75,
+                 "id":8,
+                 "name":"to_house",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"house_interior.tmj"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":45,
+                 "x":817.5,
+                 "y":195.125
+                }, 
+                {
+                 "height":24.75,
+                 "id":9,
+                 "name":"to_house",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"house_interior.tmj"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":45,
+                 "x":337.5,
+                 "y":260.125
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -396,7 +498,7 @@
          "y":0
         }],
  "nextlayerid":13,
- "nextobjectid":1,
+ "nextobjectid":10,
  "orientation":"orthogonal",
  "properties":[
         {
